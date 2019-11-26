@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-26T13:20:02+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/kseniadudiy/Documents/brodskygoodvideo.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Documents/brodskygoodvideo.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:63a188f4-7927-40f8-8503-0d795bd88288</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">33</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="17200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="17200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="29800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="29800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="41700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="41700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="65000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="65000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="72000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="72000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="74800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="74800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="76000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="76000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="84500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="84500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="93000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="93000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="113300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="113300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="117660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="117660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="154700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="154700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="156000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="156000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="174000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="174000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="195570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="195570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="196730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="196730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="200260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="200260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="212700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="212800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="214000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="214500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="214900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="215125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="216200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="216430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="221000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="221000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="235000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="235000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="248630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="249200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="249290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="249290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="252090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="252090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="278000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="278000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="283000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="283000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="296000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="296000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="316000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="theodevi" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@iab1940m" TIER_ID="@iab1940m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> и поэтому и ахматова и цветаева восприняли происходящее / иск / как катастрофу для огромного количества людей / прост для них кровь это кровь да / а не там средство скажем для достижения определенной цели да / и поэтому эти головы не закружились</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>  мандельштам / как и все / то есть в меньшей степени чем все да / мандельштам разумеется э / попы / попытался увидеть в этом то что пытались в этом увидеть все</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>  то есть вот это эти замечательные его строчки ну что ж попробуем огромный неуклюжий скрипучий поворот руля / ну вот э / это именно / по крайней мере он не высказался более / с большим энтузиазмом по этому поводу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>  когда насту / когда наступило советское время когда значит все это стабилизировалось и так далее так далее после гражданской войны там / э / девятнадцатый / то есть девятнадцатого двадцатого года / то есть двадцать третий двадцать четвертый двадцать пятый / то есть он пытался каким-то образом к этой ситуации приниться приспособиться да / но опять-таки возни / возникает несовпадение языковых по-крайней мере планов / не говоря о том что культурных планов да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>  то есть что он ни делал он пытался писать и рецензии которые значит в общем требовало время / и так далее так далее / в духе служения обществу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>  то есть мандельштам в известной степени это довольно интересно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>  вдох</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>  он смотрел на себя то есть то что ему помогало в известной степени / хотя и сводило одновременно с ума пытаться приспособиться к этой системе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>  это был пафос или это было сознание такого как бы сказать / то что назыается по-английски civil servant / то есть слу общественного служения да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>  то есть это мысль о том что у нас есть общество которому мы можем служить да / и должны в известной степени служить даже если это нам зачастую [нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>  мандельштам например как поэт / он был не очень интересен именно как поэт в том смысле что он / его рифмы не очень интересны да / его размеры в общем не очень интересны то есть они вполне традиционны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>  просто чрезвычайно феноменально то что он говорит в этих размерах да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>  а не то как он в известной степени делает да / то есть феноменально это э это соверш фен / совершенно фантастический культурный сплав который идет в его стихи да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>  и чем замечателен мандельштам чем он отличается от всех чем он  боль / то есть вот опять-таки я говорю великий поэт да / то есть более вель / чем он отличается чем он лучше других например да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>  это тем что у него / он способен на / похож на цветаеву но более прямой холд да / э э э / тоо есть мандельштам в состоянии приблизиться к объекту своих рассуждений к предмету стихотворения вплотную знаете как лицом к лицу да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>  коогда он пишет там это самое</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>  и в го / то есть это э одни из самых замечательных его стихов это э это / по-моему э это самое / строфы да которые кончаются / что-то / и не ограблен / и вот эта формула времени и формула века и формула состояния э / души / человеческой в это время в двадцатом веке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>  э / и не ограблен я и не надломлен но только что всего переогромлен / как слово о полку струя моя туга / и в голосе моем послеудушье / после удушья / звучит земля / последнее оружье / сухая нежность черноземных га</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>  вот это га</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>  мандельштам мог сделать вот этот самый ход / знаете вот так вот да / вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>  то есть э / эм / вот э э это тоо чегоо цветаева не делала / потому что цветаева двигалась с колоссальной скоростью / э / мандельштам то есть мог приблизить лицоо действительно к земле да / вот так вот вплотную</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE> a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE> нет нет нет нет нет / это все-таки это все-таки поэзия да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>  э / то есть вот э / мандель мандельштам все-таки особенно после тридцатого года / это стихи / это поразительная эволюция между прочим поэта потому что начинает в общем он доо известной степени как классицист да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE> то есть вся эта четкость размеров там / это самое / лети в туман моторов вереница / самолюбивый скромный пешеход / чудак евгений бедности стыдится / бензин вдыхает и судьбу клянет / это пушкинское эхо чистое</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE> это перифраз цитаты из да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>  и в / э / стихотворениях тридцатых годов э все время все ближе и ближе подхожит именно к этой самой сырой земле / то эсть э к черноте земли да / то есть / э то есть в его стихах вы видите пооры почвы да / э э ну и не толькоо почвы но и просто / или скажем там элементарный состав воздуха этот поэт который пытается проникнуть / эо уже знаете как когда пройти сквозь землю или пройти сквозь воздух</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>  то есть эти стихотворения / эти стихи за /замечательные стихи / о неизвестном солдате коогда он говорит там о созвездиях</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>  шевелящимися виноградинами угрожают нам эти миры да / там и висят / кхкхм / городами украденными золотыми созвездиями ягоодами да / эти самые шатры и так далее и так далее</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>  то есть это / это взгляд который пытается проникнуть э / в су в суть в молекулярную буквально / когда он пытается описать молекулярную субстанцию мира изнутри уже да / то есть это человек / этого ни у кого нет разумеется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="@ufp1960f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>а если бы не куст рябины</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>а если бы не куст ря</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>конечно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ec837190-79d5-4458-9e06-401f5199a977">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5c41a89e-07c6-4307-b816-147f67550f5b">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_83354767-b4c1-4664-8e82-ec7f1cc28e30">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d508080c-d3b5-4f7f-98cd-0840d9098c9c">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d53f06c6-c8c4-4b40-8845-589a8db6f0de">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7ff0fa6e-5386-43bf-a0a1-0413bc6ac2ea">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a067cd9f-5710-4cd3-a722-f539d2c1a58a">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b5984fe3-e8ef-4c34-8c99-eb5ef594abc9">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_28e68ff1-82bb-48bf-89fb-41fd699de058">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b4765efb-e826-4dcc-9ed0-1a36b3ba011d">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2ee9075d-acba-4b22-a61b-3c8b77f96fb3">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_870bd61c-1f3f-4bee-9f3b-d4ebfd26c0f3">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cfcfc4a1-6e10-4646-b6f1-7cf29b1e3383">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_95d03c1b-54b6-441d-bc09-b28b5bb6df8d">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ff5e9d2a-df82-4bac-aa0e-8ca5d8935614">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd7ba21e-503e-4699-8a7d-45d8c6704a3c">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_13e0c40d-ce6c-4ee8-998a-d46fa19c74bb">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
